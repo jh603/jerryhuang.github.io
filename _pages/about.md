@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a software engineer working on generative AI applications in New York, NY. I graduated from Duke University with a bachelors in Computer Science. Here is a link to my [CV](https://jh603.github.io/files/Jerry_Huang_CV_website.pdf)
+I'm a software engineer at [VectorShift.ai](https://www.vectorshift.ai/) working on buildling and deploying generative AI applications in New York, NY. I graduated from Duke University with a bachelors in Computer Science. Here is a link to my [CV](https:/jh603.github.io/files/Jerry_Huang_CV_website.pdf)
 
 Research Interests
 ======
-I'm broadly interested in building inherently interpretable machine learning models and examining ways to better encode domain specific knowledge in models. Previously, I researched online algorithms and applied machine learning models and graph
+I'm broadly interested in building inherently interpretable machine learning models and examining ways to better encode domain specific knowledge in models. During my undergrad, I researched online algorithms and applied machine learning models and graph
 similarity algorithms in the realm of fingerprint matching.
 
 Work Experience
 ======
-I previously worked as a quantitative trader at [Optiver US LLC](https://optiver.com/) and [Old Mission Capital](https://www.oldmissioncapital.com/), and as a software engineering intern at [Amazon](https://www.amazon.com/) and [Secureframe](https://secureframe.com/).
+Previously, I worked as a quantitative trader at [Optiver US LLC](https://optiver.com/) and [Old Mission Capital](https://www.oldmissioncapital.com/) and as a software engineering intern at [Amazon](https://www.amazon.com/) and [Secureframe](https://secureframe.com/).
 
 <!-- Site-wide configuration
 ------
