@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer at [VectorShift](https://www.vectorshift.ai/) working on buildling and deploying generative AI applications in New York, NY. I graduated from Duke University with a bachelors in Computer Science. Here is a link to my [CV](https:/jh603.github.io/files/Jerry_Huang_CV_website.pdf)
+I'm a software engineer at [VectorShift](https://www.vectorshift.ai/) working on buildling and deploying generative AI applications in New York, NY. I graduated from Duke University with a bachelors in Computer Science. Here is a link to my [CV](/files/Jerry_Huang_CV_website.pdf)
 
 Research Interests
 ======
